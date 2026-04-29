@@ -89,3 +89,6 @@ This project demonstrates practical implementation of:
 - Similarity-based recommendation algorithms
 - Web deployment of ML models
 
+#Other 4 more projects github links:
+Fake News Detectors: https://github.com/Niharika8651/Fake-News-Detector.git
+
