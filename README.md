@@ -92,4 +92,4 @@ This project demonstrates practical implementation of:
 #Other 4 more projects github links:
 Fake News Detectors: https://github.com/Niharika8651/Fake-News-Detector.git
 AI resume ranker: https://github.com/Niharika8651/AI-Resume-Ranker.git
-
+Credit Fraud Detection: https://github.com/Niharika8651/Credit-Card-Fraud-Detection.git
